@@ -1,8 +1,8 @@
 # POO - Iphone
 
 Aplicando praticas de POO com um projeto baseado na usabilidade do Iphone
+
 ```mermaid
-graph TD;
 classDiagram
     Iphone --> ReprodutorMusical
     Iphone --> NavegadorInternet
